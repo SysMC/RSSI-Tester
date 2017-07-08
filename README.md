@@ -1,2 +1,2 @@
 # RSSI-Tester
-RSSI Tester for wirless modules MBee
+RSSI Tester for wireless modules MBee
